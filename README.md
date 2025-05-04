@@ -20,7 +20,7 @@ The application incorporates the following technologies:
 ## Setup Instructions
 To run the chat application locally, follow these steps:
 
-1. __Clone the repository__: ``` ```
+1. __Clone the repository__: ```https://github.com/Tanvi012004/BootChat-Springboot.git ```
 2. __Navigate to the project directory__: ```cd chatroon-backend```
 3. __Set up the backend server__:
    - Install the necessary dependencies: ```mvn clean install```
